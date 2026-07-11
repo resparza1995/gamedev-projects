@@ -6,7 +6,7 @@ I have created this repo to contain all the projects I have of this type.
 
 | Project                         | Description                                                                                      | Repository                                                                                      | Deployed |
 |----------------------------------|--------------------------------------------------------------------------------------------------|--------------------------------------------------------------------------------------------------|-------------------|
-| **WoW Addons**                    | World of Warcraft add-ons | [here](https://github.com/resparza1995/WoWAddons) |  
+| **WoW Addons**                    | World of Warcraft add-ons | [here](https://github.com/resparza1995/WoWAddons) |  [CurseForge](https://www.curseforge.com/members/fytta/projects)
 | **Unblockme solver**                 | Develop with Java and Javascript. Solves unblockme-style puzzles using BFS, DFS, A*.            | [here](https://github.com/resparza1995/unblockme-solver-web)                                   | [here](https://unblockme-solver-web.onrender.com/)
 | **Beaimer**                          | Aim trainer built for precision and speed. Improve your accuracy and click efficiency.          | [here](https://github.com/resparza1995/beaimer-game)                                                                                        | [here](https://resparza1995.github.io/beaimer-game/)
 | **Snake CMD**                        | Snake game developed in Python to run in the command line.                                      | [here](https://github.com/resparza1995/snake-game-cmd)                                          |
