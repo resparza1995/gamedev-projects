@@ -1,9 +1,10 @@
 # Gamedev projects
-Mini-games that I develop for fun and practice.   
+Mini-games and tools that I develop for fun and practice.   
 
 ## Projects
 I have created this repo to contain all the projects I have of this type.
 
+### Mini Games
 | Project                         | Description                                                                                      | Repository                                                                                      | Deployed |
 |----------------------------------|--------------------------------------------------------------------------------------------------|--------------------------------------------------------------------------------------------------|-------------------|
 | **WoW Addons**                    | World of Warcraft add-ons | [here](https://github.com/resparza1995/WoWAddons) |  [CurseForge](https://www.curseforge.com/members/fytta/projects)
@@ -14,7 +15,11 @@ I have created this repo to contain all the projects I have of this type.
 | **Unity Learn prototypes**           | Repository with several prototypes to learn Unity from Unity Learn.                             | [here](https://github.com/resparza1995/UnityLearn-CreateWithCode)                              |
 | **Beginning C++ Through Game Programming** | Exercises and examples from book Beginning Cpp Through Game Programming.                 | [here](https://github.com/resparza1995/beginning-cpp-through-game-programming)                 |
 
-
+### Tools
+| Project                         | Description                                                                                      | Repository                                                                                      | Deployed |
+|----------------------------------|--------------------------------------------------------------------------------------------------|--------------------------------------------------------------------------------------------------|-------------------|
+| **video to spritesheet** | 100% client-side web application that converts video files (.mp4, .webm, .mov) into PNG spritesheets | [here](https://github.com/resparza1995/video-to-spritesheet) | [here](https://resparza1995.github.io/video-to-spritesheet/)
+| **WoW Addons**                    | World of Warcraft add-ons | [here](https://github.com/resparza1995/WoWAddons) |  [CurseForge](https://www.curseforge.com/members/fytta/projects)
 
 
 
